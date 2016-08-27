@@ -1,0 +1,14 @@
+layout_spectrum: 0.9786085444502532
+typography_spectrum: 0.42841245396994054
+color:
+  brandStrength: 0.42511046258732677
+  lightness: 0.8486976074054837
+  saturation: 0.06701879948377609
+  rhythmicContrast: 0.5428201828617603
+  brandColors:
+    - '#615347'
+    - '#C67250'
+    - '#6F7F4B'
+    - '#C1A03E'
+    - '#EEC66E'
+name: CultureCodec
