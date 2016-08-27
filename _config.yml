@@ -1,4 +1,3 @@
-layout_spectrum: 0.7109651488717645
 typography_spectrum: 0.40895452187396586
 color:
   brandStrength: 0.570780576672405
@@ -11,6 +10,11 @@ color:
     - '#284907'
     - '#382513'
     - '#363942'
+layout_spectrum: 0.7109651488717645
 name: CultureCodec
+navigation:
+  - name: about
+    id: 750673fc-1d89-4dd1-aa41-d957f37f5fa7
+    type: content
 title: culture ‹› codec
 description: tech • travel • translation • indologie
