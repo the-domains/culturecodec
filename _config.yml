@@ -1,16 +1,16 @@
-typography_spectrum: 0.42841245396994054
+layout_spectrum: 0.7109651488717645
+typography_spectrum: 0.40895452187396586
 color:
-  brandStrength: 0.42511046258732677
-  lightness: 0.8486976074054837
-  saturation: 0.06701879948377609
-  rhythmicContrast: 0.5428201828617603
+  brandStrength: 0.570780576672405
+  lightness: 0.10036436491645873
+  saturation: 0.5947454951237887
+  rhythmicContrast: 0.22264462895691395
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-layout_spectrum: 0.9786085444502532
+    - '#D8CAA8'
+    - '#5C832F'
+    - '#284907'
+    - '#382513'
+    - '#363942'
 name: CultureCodec
 title: culture ‹› codec
 description: tech • travel • translation • indologie
