@@ -11,7 +11,7 @@ color:
     - '#382513'
     - '#363942'
 layout_spectrum: 0.7109651488717645
-name: CultureCodec
+name: culture‹›codec
 navigation:
   - name: about
     id: 750673fc-1d89-4dd1-aa41-d957f37f5fa7
@@ -19,5 +19,5 @@ navigation:
   - name: test
     id: e4699df0-301e-4d76-8e0a-91e6241780cc
     type: content
-title: culture ‹› codec
+title: culture‹›codec
 description: tech • travel • translation • indologie
